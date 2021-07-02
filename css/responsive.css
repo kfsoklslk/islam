@@ -1,0 +1,52 @@
+@media  (max-width: 1440px){
+    .details__block-img {
+        width: 860px;
+        height: 488px;
+        margin: 126px 32px 75px 0;
+    }
+}
+@media (max-width: 1024px) {
+    .background .details .details__block-img {
+        width: 560px;
+        height: 409px;
+        margin: 122px 16px 51px 0;
+    }
+}
+@media (max-width: 768px) {
+    .seasons__block {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        background-size: 134%;
+        position: relative;
+        z-index: 2;
+        background-image: url(https://ixbt.online/gametech/covers/2021/04/21/chuVYTJqKcDPQUwi37fex4yh6lu9XhLrFo6bIaiu.jpg);
+    }
+    .background .details .details__block-text {
+        font-size: 17px;
+        color: gray;
+        font-family: "Balsamiq Sans", cursive;
+    }
+    .background .details .details__block-img {
+        width: 369px;
+        height:288px;
+        margin: 177px 16px 51px 0;
+
+    }
+    .third {
+        background-image: url(../img/ssssssssssss.jpg);
+        height: 446px;
+    }
+}
+@media (max-width: 425px) {
+    .img__block img {
+        width: 186px;
+    }
+    .text .text-block__text {
+        color: white;
+        font-size: 23px;
+        font-family: "Montserrat", Arial, sans-serif;
+    }
+
+
+}
